@@ -32,4 +32,3 @@ int main()
     cout<<fun(str)<<endl;
     return 0;
 }
-mytest1.cpp
